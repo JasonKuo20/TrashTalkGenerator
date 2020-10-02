@@ -16,7 +16,7 @@
 ---
 
 1. 開啟終端機 (Terminal)，clone 此專案至本機(Local)電腦
-<pre><code>git clone https://github.com/JasonKuo20/RestaurantList.git</code></pre>
+<pre><code>git clone https://github.com/JasonKuo20/TrashTalkGenerator.git</code></pre>
 
 2. 進入專案資料夾
 <pre><code>cd trash_talk_generator</code></pre>
